@@ -6,7 +6,7 @@ const NavMenu: React.FC<Props> = () => {
       <nav className="navbar navbar-expand-sm bg-perso navbar-dark bg-dark">
         <div className="container-fluid">
           <a className="navbar-brand color-white" href="#">
-            🎾 TennisMatch
+            🎾 Smash Tennis
           </a>
           <button
             className="navbar-toggler"

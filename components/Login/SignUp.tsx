@@ -20,10 +20,10 @@ const SignUp: React.FC<Props> = () => {
               </a>
             </div>
             <div className="intro-section-footer">
-              <nav className="footer-nav">
-                <a href="#!">Facebook</a>
-                <a href="#!">Twitter</a>
-                <a href="#!">Gmail</a>
+            <nav className="footer-nav">
+                <a href="https://www.facebook.com/">Facebook</a>
+                <a href="https://twitter.com/">Twitter</a>
+                <a href="mailto:smashtennis@gmail.com">Contact</a>
               </nav>
             </div>
           </div>
