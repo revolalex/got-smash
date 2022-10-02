@@ -3,7 +3,7 @@ import React from "react";
 const NavMenu: React.FC<Props> = () => {
   return (
     <>
-      <nav className="navbar navbar-expand-sm bg-perso">
+      <nav className="navbar navbar-expand-sm bg-perso navbar-dark bg-dark">
         <div className="container-fluid">
           <a className="navbar-brand color-white" href="#">
             🎾 TennisMatch
